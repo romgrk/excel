@@ -1,0 +1,21 @@
+/*
+ * styles.css
+ * Copyright (C) 2016 romgrk
+ *
+ * Distributed under terms of the MIT license.
+ */
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#content {
+}
+
+#payment_term {
+  color: #444;
+  font-size: 24pt;
+  font-family: "Open Sans";
+}
+
